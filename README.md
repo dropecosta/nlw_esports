@@ -10,8 +10,6 @@ No **NLW eSports** estamos desenvolvendo uma plataforma _web_ e _mobile_ onde Ga
 
 Na aplicação WEB, é possível criar anúncios para encontrar parceiros (ou duos). Já na aplicação mobile, é possível acessar esses anúncios e visualizar as informações pertinentes a cada jogador, além de ser possível copiar para a área de transferência o nome de usuário do Discord do jogador para adicioná-lo a sua lista de amigos.
 
-Este projeto foi durante o evento **#NLWtogether** promovido pela [Rocketseat](https://www.rocketseat.com.br) sob a orientação de [Diego Fernandes](https://github.com/diego3g) e [Rodrigo Gonçalves](https://github.com/rodrigorgtic).
-
 <!-- prettier-ignore -->
 | --------------- | --- |
 | ✨ Nome         | **NLW eSports** - Rocketseat |
@@ -41,8 +39,6 @@ _English version_
 During the event **NLW eSports** we have developed a _web_ and _mobile_ platform where Gamers can find partners for the most popular games being displayed on Twitch. This project is part of the Ignite Trail and we learned about React with TypeScript and React Native with Expo.
 
 The web application allows us to create ads and find game partners (or duos). In the mobile application, we can access those ads to view the informations about each player and copy their Discord username to clipboard, so we can add them to our friends list.
-
-This project was developed during the event **#NLWtogether** hosted by [Rocketseat](https://www.rocketseat.com.br) with the help of the instructors [Diego Fernandes](https://github.com/diego3g) and [Rodrigo Gonçalves](https://github.com/rodrigorgtic).
 
 
 <a href='#top'>🔼 Back to top</a>
