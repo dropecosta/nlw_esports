@@ -17,6 +17,8 @@ Na aplicação WEB, é possível criar anúncios para encontrar parceiros (ou du
 | 🚀 URL          | Ainda não disponível |
 | 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
+![](https://raw.githubusercontent.com/dropecosta/nlw_esports/ddd341d679b3513670f4ad45ab4fab4ab186ccb0/web/src/assets/og-image.jpg)
+
 
 <div>
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
