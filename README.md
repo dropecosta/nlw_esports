@@ -10,12 +10,6 @@ No **NLW eSports** estamos desenvolvendo uma plataforma _web_ e _mobile_ onde Ga
 
 Na aplicação WEB, é possível criar anúncios para encontrar parceiros (ou duos). Já na aplicação mobile, é possível acessar esses anúncios e visualizar as informações pertinentes a cada jogador, além de ser possível copiar para a área de transferência o nome de usuário do Discord do jogador para adicioná-lo a sua lista de amigos.
 
-<!-- prettier-ignore -->
-| --------------- | --- |
-| ✨ Nome         | **NLW eSports** - Rocketseat |
-| 🏷️ Tecnologias  | React, React Native, TypeScript, Tailwind, Prisma, Radix-UI, Vite, Expo, Axios |
-| 🚀 URL          | Ainda não disponível |
-| 🔥 Design       | [**Figma**](https://www.figma.com/community/file/1150897317533332617) |
 
 ![](https://raw.githubusercontent.com/dropecosta/nlw_esports/ddd341d679b3513670f4ad45ab4fab4ab186ccb0/web/src/assets/og-image.jpg)
 
